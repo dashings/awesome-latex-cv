@@ -1,3 +1,6 @@
+用LuaLatex编译，将awesome-source-cv.cls里的\newfontfamily\FA[Path=\@fontdir]{FontAwesome}改为\setfontfamily\FA[Path=\@fontdir]{FontAwesome}
+
+
 # Huajh Awesome Latex CV  
 
 + This is CV in English.
